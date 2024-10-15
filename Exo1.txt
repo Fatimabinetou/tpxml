@@ -5,4 +5,9 @@
         <nom>M.Ali</nom>
         <eleves>132</eleves>
     </enseignant>
+ <enseignant>
+        <matiere>Arabe</matiere>
+        <nom>Mme.Fatima</nom>
+        <eleves>161</eleves>
+    </enseignant>
 </enseignants>
