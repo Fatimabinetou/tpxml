@@ -10,4 +10,9 @@
         <nom>Mme.Fatima</nom>
         <eleves>161</eleves>
     </enseignant>
+ <enseignant>
+        <matiere>Mathématiques</matiere>
+        <nom>Mlle.Nora</nom>
+         <eleves>143</eleves>
+    </enseignant>
 </enseignants>
